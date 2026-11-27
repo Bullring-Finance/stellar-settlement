@@ -1,4 +1,4 @@
-# Stellar Settlement for Import & Exporter Payments
+# Stellar Settlement for Importer & Exporter Payments
 
 Bullring Finance's integration with the Stellar network, funded by the [Stellar Community Fund](https://communityfund.stellar.org/) (SCF #46, Integration Track).
 
